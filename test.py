@@ -18,7 +18,7 @@ df[['lat','lon']]=df3[['Lat','Long']]
 #    columns=['lat', 'lon'])
 
 
-st.subheader('Streamlit para visualizar mapas desde github')
+st.subheader('Streamlit para visualizar mapas desde github v2')
 #map_data = df
 #st.map(map_data)
 
